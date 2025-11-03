@@ -1,0 +1,11 @@
+Patient_ID,Age,Sex,BMI,Smoking_Status,Exercise_Weekly_Hours,Alcohol_Consumption,Family_History_Diabetes,Family_History_Heart_Disease,Cholesterol_Level,Blood_Pressure_Systolic,Sleep_Hours_Nightly,Stress_Level,Chronic_Condition_Count,Diabetes_Risk,Cardiovascular_Risk,Respiratory_Risk,DiseaseLabel
+1001,45,M,28,1,2,3,1,0,210,135,6,7,1,High,Low,Low,1
+1002,38,F,23,0,5,1,0,0,180,120,7,3,0,Low,Low,Low,0
+1003,52,M,31,1,1,5,1,1,245,145,5,8,3,Very_High,High,Low,1
+1004,42,F,26,0,4,2,0,1,195,125,7,4,1,Low,Medium,Low,0
+1005,58,M,33,1,0,4,1,1,260,155,5,9,4,Very_High,Very_High,Medium,1
+1006,35,F,22,0,6,1,0,0,170,115,8,2,0,Low,Low,Low,0
+1007,48,M,29,1,2,3,1,0,220,138,6,6,2,High,Medium,Low,1
+1008,41,F,24,0,5,2,0,0,185,122,7,3,0,Low,Low,Low,0
+1009,55,M,32,1,1,4,1,1,250,150,5,8,3,Very_High,High,Medium,1
+1010,39,F,25,0,4,1,0,1,190,128,7,4,1,Low,Medium,Low,0

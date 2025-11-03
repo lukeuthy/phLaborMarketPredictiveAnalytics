@@ -1,0 +1,11 @@
+Image_ID,Red_Intensity,Green_Intensity,Blue_Intensity,Texture_Entropy,Shape_Compactness,Edge_Density,Color_Variance,Scale_Invariant_Features,Symmetry_Score,Disease_Severity,Species_ID,DiseaseLabel,SpeciesLabel
+1,125,145,155,0.78,0.82,0.45,45.2,78,0.65,0,1,Healthy,Tilapia
+2,118,140,152,0.75,0.80,0.42,42.1,75,0.62,2,2,Bacterial,Catfish
+3,130,148,160,0.81,0.85,0.48,48.5,82,0.68,0,3,Healthy,Grouper
+4,115,135,148,0.72,0.78,0.40,38.9,71,0.59,3,1,Fungal,Tilapia
+5,122,142,158,0.76,0.81,0.44,44.3,76,0.63,1,4,Parasitic,Carp
+6,128,146,162,0.79,0.84,0.47,47.2,79,0.66,0,2,Healthy,Catfish
+7,110,132,145,0.70,0.76,0.38,36.5,68,0.56,4,5,Viral,Snapper
+8,135,152,168,0.83,0.87,0.50,51.8,85,0.71,0,6,Healthy,Salmon
+9,120,138,150,0.74,0.79,0.41,41.2,73,0.61,2,1,Bacterial,Tilapia
+10,125,144,156,0.77,0.82,0.45,45.6,77,0.64,0,3,Healthy,Grouper
